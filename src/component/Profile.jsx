@@ -6,7 +6,7 @@ function Profile() {
 
   useEffect(() => {
     fetch(
-      "http://localhost:5000/api/users/profile",
+      "https://backend-auth.onrender.com/api/users/profile",
       {
         headers: {
           Authorization:
