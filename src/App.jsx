@@ -7,7 +7,6 @@ import {
 import Login from "./component/login";
 import Register from "./component/Register";
 import Profile from "./component/Profile";
-
 function App() {
   return (
     <BrowserRouter>

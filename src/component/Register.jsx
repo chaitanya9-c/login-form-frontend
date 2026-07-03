@@ -100,7 +100,6 @@ function Register() {
             name="date_of_birth"
             onChange={handleChange}
           />
-
           <input
             type="password"
             name="password"
